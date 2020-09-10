@@ -16,5 +16,7 @@ fdisk, dd, sudo
 ## Installation
 
 > cd target/release/
+
 > cargo build --release
+
 > sudo cp isousb /usr/bin/isousb
