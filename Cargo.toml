@@ -1,6 +1,6 @@
 [package]
 name = "isousb"
-version = "0.1.0"
+version = "0.2.0"
 authors = ["Athanaze <sacha.liechti@arsent.ch>"]
 edition = "2018"
 
@@ -9,3 +9,9 @@ edition = "2018"
 [dependencies]
 regex = "1"
 users = "0.10.0"
+
+[profile.release]
+opt-level = 'z'     # Optimize for size.
+lto = true          # Enable Link Time Optimization
+codegen-units = 1   # Reduce number of codegen units to increase optimizations.
+panic = 'abort'     # Abort on panic
