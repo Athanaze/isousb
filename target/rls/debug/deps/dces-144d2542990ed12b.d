@@ -1,0 +1,13 @@
+/run/media/sacha/stocky/isousb/isousb/target/rls/debug/deps/dces-144d2542990ed12b.rmeta: /home/sacha/.cargo/registry/src/github.com-1ecc6299db9ec823/dces-0.3.0/src/lib.rs /home/sacha/.cargo/registry/src/github.com-1ecc6299db9ec823/dces-0.3.0/src/component/mod.rs /home/sacha/.cargo/registry/src/github.com-1ecc6299db9ec823/dces-0.3.0/src/component/component_store.rs /home/sacha/.cargo/registry/src/github.com-1ecc6299db9ec823/dces-0.3.0/src/component/string_component_store.rs /home/sacha/.cargo/registry/src/github.com-1ecc6299db9ec823/dces-0.3.0/src/entity.rs /home/sacha/.cargo/registry/src/github.com-1ecc6299db9ec823/dces-0.3.0/src/error.rs /home/sacha/.cargo/registry/src/github.com-1ecc6299db9ec823/dces-0.3.0/src/prelude.rs /home/sacha/.cargo/registry/src/github.com-1ecc6299db9ec823/dces-0.3.0/src/system.rs /home/sacha/.cargo/registry/src/github.com-1ecc6299db9ec823/dces-0.3.0/src/world.rs
+
+/run/media/sacha/stocky/isousb/isousb/target/rls/debug/deps/dces-144d2542990ed12b.d: /home/sacha/.cargo/registry/src/github.com-1ecc6299db9ec823/dces-0.3.0/src/lib.rs /home/sacha/.cargo/registry/src/github.com-1ecc6299db9ec823/dces-0.3.0/src/component/mod.rs /home/sacha/.cargo/registry/src/github.com-1ecc6299db9ec823/dces-0.3.0/src/component/component_store.rs /home/sacha/.cargo/registry/src/github.com-1ecc6299db9ec823/dces-0.3.0/src/component/string_component_store.rs /home/sacha/.cargo/registry/src/github.com-1ecc6299db9ec823/dces-0.3.0/src/entity.rs /home/sacha/.cargo/registry/src/github.com-1ecc6299db9ec823/dces-0.3.0/src/error.rs /home/sacha/.cargo/registry/src/github.com-1ecc6299db9ec823/dces-0.3.0/src/prelude.rs /home/sacha/.cargo/registry/src/github.com-1ecc6299db9ec823/dces-0.3.0/src/system.rs /home/sacha/.cargo/registry/src/github.com-1ecc6299db9ec823/dces-0.3.0/src/world.rs
+
+/home/sacha/.cargo/registry/src/github.com-1ecc6299db9ec823/dces-0.3.0/src/lib.rs:
+/home/sacha/.cargo/registry/src/github.com-1ecc6299db9ec823/dces-0.3.0/src/component/mod.rs:
+/home/sacha/.cargo/registry/src/github.com-1ecc6299db9ec823/dces-0.3.0/src/component/component_store.rs:
+/home/sacha/.cargo/registry/src/github.com-1ecc6299db9ec823/dces-0.3.0/src/component/string_component_store.rs:
+/home/sacha/.cargo/registry/src/github.com-1ecc6299db9ec823/dces-0.3.0/src/entity.rs:
+/home/sacha/.cargo/registry/src/github.com-1ecc6299db9ec823/dces-0.3.0/src/error.rs:
+/home/sacha/.cargo/registry/src/github.com-1ecc6299db9ec823/dces-0.3.0/src/prelude.rs:
+/home/sacha/.cargo/registry/src/github.com-1ecc6299db9ec823/dces-0.3.0/src/system.rs:
+/home/sacha/.cargo/registry/src/github.com-1ecc6299db9ec823/dces-0.3.0/src/world.rs:

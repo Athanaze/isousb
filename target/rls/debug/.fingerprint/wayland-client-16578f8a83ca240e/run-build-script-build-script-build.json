@@ -1,0 +1,1 @@
+{"rustc":16329648796341269251,"features":"","target":0,"profile":0,"path":0,"deps":[[8956590479206398715,"build_script_build",false,14819243311805812280]],"local":[{"RerunIfChanged":{"output":"debug/build/wayland-client-16578f8a83ca240e/output","paths":["./wayland.xml"]}}],"rustflags":[],"metadata":0,"config":0}
